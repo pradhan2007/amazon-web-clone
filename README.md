@@ -1,2 +1,2 @@
 # amazon-web-clone
-this is a amazon website that i have build by me
+this is a amazon website that i have build
